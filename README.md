@@ -133,6 +133,14 @@ Use the queries and results to perform your analysis, explore trends, and test t
 # Conclusion
 This project demonstrates the power of SQL for conducting stock market analysis and gaining valuable insights into the behavior of the Nifty index. By utilizing MySQL and the given dataset, users can explore the Indian stock market, test trading strategies, and conduct data-driven research.
 
+## Contact
+
+For any inquiries or suggestions, feel free to reach out:
+
+- **Email:** [shivanandnashi97@gmail.com](mailto:shivanandnashi97@gmail.com)
+- **LinkedIn:** [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+
+
 
 
 
