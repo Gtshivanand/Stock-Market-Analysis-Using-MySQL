@@ -1,14 +1,14 @@
 # Stock Market Analysis using MySQL
 
-**Introduction**
+# **Introduction** :
 
   This dataset offers a comprehensive collection of historical data for the Nifty index, sourced from Yahoo Finance. The Nifty index, managed by the National Stock Exchange of India (NSE), represents the performance of the top 50 companies listed on the exchange, covering various sectors of the Indian economy. Utilizing Yahoo Finance's extensive database, this dataset spans a significant timeframe, providing insights into the Nifty index's performance over the years. From seasoned investors to budding analysts, this dataset serves as a valuable resource for conducting in-depth analyses, devising trading strategies, and exploring trends within the Indian stock market landscape.
 
-  **Purpose**
+# **Purpose** :
   
      The purpose of this dataset is to facilitate analysis of historical trends in the Nifty index, testing of trading strategies, and research on stock market behavior.
 
- **About data**  
+# **About data**:
  
      The dataset was obatined from yahoo finance. The dataset contains information of NIFTY index of 1 year(March 2023 to March 2024).This dataset contains 7 columns and 244 rows.
      
@@ -45,7 +45,7 @@
    - The project investigates performance metrics, such as the highest volume traded on a single day, the average closing price, and the largest daily price change.
 
 
-  **Questions and answers**
+# **Questions Solved in this  SQL file **:
 
   1.What is the total volume traded on all recorded dates?  
 
@@ -107,7 +107,7 @@
 
   30.What the average closing price? 
 
- # Getting Started
+ # Getting Started:
 To replicate this analysis or build on it, follow these steps:
 
 1.Clone the repository:
@@ -130,10 +130,10 @@ You can run the SQL queries provided in the queries/ directory or modify them to
 
 Use the queries and results to perform your analysis, explore trends, and test trading strategies.
 
-# Conclusion
+# Conclusion:
 This project demonstrates the power of SQL for conducting stock market analysis and gaining valuable insights into the behavior of the Nifty index. By utilizing MySQL and the given dataset, users can explore the Indian stock market, test trading strategies, and conduct data-driven research.
 
-## Contact
+# Contact:
 
 For any inquiries or suggestions, feel free to reach out:
 
